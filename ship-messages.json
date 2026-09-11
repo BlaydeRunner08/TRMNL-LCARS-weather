@@ -1,5 +1,5 @@
 {
-  "messages": [
+  "messages": {
     "Holodeck 2 is unstable. Enter at your own risk.",
     "Radiation leak in the port nacelle. Avoid area.",
     "Transporter maintenance: slight rearrangement possible.",
@@ -10,5 +10,5 @@
     "Tribble count exceeds available storage.",
     "Red alert cancelled. Someone leaned on the console.",
     "Please stop asking the computer for relationship advice."
-  ]
+  }
 }
