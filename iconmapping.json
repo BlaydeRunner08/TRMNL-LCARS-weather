@@ -1,6 +1,6 @@
 {
     "description": "Open-Meteo icons mapping for weather conditions",
-    "base_url": "https://blayderunner08.github.io/icons/",
+    "base_url": "https://blayderunner08.github.io/TRMNL-LCARS-weather/icons/",
     "icons": {
         "0": {
             "day": "clear-day.svg",
