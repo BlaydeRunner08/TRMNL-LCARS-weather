@@ -1,0 +1,94 @@
+{
+  "translations": {
+    "current": {
+      "da": "Opdateret",
+      "de": "Aktuell",
+      "es": "Actual",
+      "fr": "Actuel",
+      "it": "Attuale",
+      "nl": "Actueel",
+      "en": "Current"
+    },
+    "tomorrow": {
+      "da": "I morgen",
+      "de": "Morgen",
+      "es": "Mañana",
+      "fr": "Demain",
+      "it": "Domani",
+      "nl": "Morgen",
+      "en": "Tomorrow"
+    },
+    "today": {
+      "da": "I dag",
+      "de": "Heute",
+      "es": "Hoy",
+      "fr": "Aujourd'hui",
+      "it": "Oggi",
+      "nl": "Vandaag",
+      "en": "Today"
+    },
+    "monday": {
+      "da": "Mandag",
+      "de": "Montag",
+      "es": "Lunes",
+      "fr": "Lundi",
+      "it": "Lunedì",
+      "nl": "Maandag",
+      "en": "Monday"
+    },
+    "tuesday": {
+      "da": "Tirsdag",
+      "de": "Dienstag",
+      "es": "Martes",
+      "fr": "Mardi",
+      "it": "Martedì",
+      "nl": "Dinsdag",
+      "en": "Tuesday"
+    },
+    "wednesday": {
+      "da": "Onsdag",
+      "de": "Mittwoch",
+      "es": "Miércoles",
+      "fr": "Mercredi",
+      "it": "Mercoledì",
+      "nl": "Woensdag",
+      "en": "Wednesday"
+    },
+    "thursday": {
+      "da": "Torsdag",
+      "de": "Donnerstag",
+      "es": "Jueves",
+      "fr": "Jeudi",
+      "it": "Giovedì",
+      "nl": "Donderdag",
+      "en": "Thursday"
+    },
+    "friday": {
+      "da": "Fredag",
+      "de": "Freitag",
+      "es": "Viernes",
+      "fr": "Vendredi",
+      "it": "Venerdì",
+      "nl": "Vrijdag",
+      "en": "Friday"
+    },
+    "saturday": {
+      "da": "Lørdag",
+      "de": "Samstag",
+      "es": "Sábado",
+      "fr": "Samedi",
+      "it": "Sabato",
+      "nl": "Zaterdag",
+      "en": "Saturday"
+    },
+    "sunday": {
+      "da": "Søndag",
+      "de": "Sonntag",
+      "es": "Domingo",
+      "fr": "Dimanche",
+      "it": "Domenica",
+      "nl": "Zondag",
+      "en": "Sunday"
+    }
+  }
+}
