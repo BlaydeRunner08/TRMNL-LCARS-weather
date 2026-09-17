@@ -1,6 +1,6 @@
 {
     "description": "Open-Meteo icons mapping for weather conditions",
-    "base_url": "https://blayderunner08.github.io/weather-icons/",
+    "base_url": "https://blayderunner08.github.io/icons/",
     "icons": {
         "0": {
             "day": "clear-day.svg",
